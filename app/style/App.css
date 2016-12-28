@@ -1,0 +1,13 @@
+/*
+* CSS reset
+*/
+@import url('../../bower_components/sanitize-css/sanitize.css');
+/*
+* 全局字号颜色定义
+* 提示的三角符号CSS代码
+*/
+body {
+  background-color:		#EDEDED;
+  display: flex;
+  flex-direction: column;
+}
