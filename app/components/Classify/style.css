@@ -1,17 +1,17 @@
 #img {
   width:80px;
   height: 80px;
-  align-self: center;
-}
+  }
 #name {
-  font-size: 70px;
-  margin-top: 40px;
-  align-self: center;
-  margin-left: 10px;
-  margin-right: 60px;
+  font-size: 12px;
+  margin-top: auto;
+font-family: sans-serif;
 }
 #nav {
-  margin-left: 20px;
+  margin-left: 100px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
 }
 .clumcontainer {
   display: flex;
