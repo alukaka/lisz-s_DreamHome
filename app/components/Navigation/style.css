@@ -1,0 +1,30 @@
+#img {
+  width:80px;
+  height: 80px;
+  }
+#name {
+  font-size: 12px;
+  margin-top: auto;
+font-family: sans-serif;
+}
+#nav {
+  margin-left: 100px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.clumcontainer {
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  align-self: flex-end;
+  display: inline-flex;
+  margin-top: 40px;
+}
+.line {
+  width: auto;
+  margin-top: 20px;
+  height: 50px;
+  background-color: #66ccff;
+}

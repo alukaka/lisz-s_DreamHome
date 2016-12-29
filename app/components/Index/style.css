@@ -1,0 +1,46 @@
+#img {
+  width:80px;
+  height: 80px;
+  }
+#name {
+  font-size: 12px;
+  margin-top: auto;
+  font-family: sans-serif;
+}
+#nav {
+  margin-left: 100px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.clumcontainer {
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  align-self: flex-end;
+  display: inline-flex;
+  margin-top: 40px;
+}
+.line {
+  width: auto;
+  margin-top: 20px;
+  height: 3px;
+  background-color: #66ccff;
+}
+.initindex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  font-size: 80px;
+  background-color: #66ccff;
+  margin-top: 20px;
+}
+.ol {
+    font-size: 40px;
+}
+.artic {
+  font-size: 30px;
+}
